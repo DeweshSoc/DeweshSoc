@@ -3,17 +3,15 @@
 
 - 🔭 I’m currently working on [LC/tcg - a leetcode based testcase generator API service](https://github.com/DeweshSoc/lc_tcg)
 
-- 🌱 I’m currently learning **GraphQL, SQL and little about web architecture**
+- 🌱 I’m currently learning **React, Linux and AWS tech**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://deweshsoc.github.io/Portfoliov2/)
-
-- 📝 I regularly write solutions on [Leetcode](https://leetcode.com/Dewesh_Soc/)
 
 - 💬 Ask me about **Javascript and Node.JS**
 
 - 📫 How to reach me **deweshjha4@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1FmoubH6nugEJNnaFCQjXUs-RdIWpLUbB/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1VLmh00o55NrFKXqz8ahJXiYJHCsE0avY/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
