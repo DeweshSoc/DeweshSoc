@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dewesh</h1>
+<h1 align="center">Hi, I'm Dewesh</h1>
 <h3 align="center">A computer science enthusiast, web developer and a passionate educator trying to build an intense career</h3>
 
 - 🔭 I’m currently working on building a 16 bit CPU on breadboard.
