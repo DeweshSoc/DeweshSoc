@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dewesh</h1>
 <h3 align="center">A computer science enthusiast, web developer and a passionate educator trying to build an intense career</h3>
 
-- 🔭 I’m currently working on [LC/tcg - a leetcode based testcase generator API service](https://github.com/DeweshSoc/lc_tcg)
+- 🔭 I’m currently working on building a 16 bit CPU on breadboard.
 
-- 🌱 I’m currently learning **React, Linux and AWS tech**
+- 🌱 I’m currently learning **React and Devops tech**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://deweshsoc.github.io/Portfoliov2/)
+- 👨‍💻 Some of my projects are available at [my portfolio](https://deweshsoc.github.io/Portfoliov2/)
 
 - 💬 Ask me about **Javascript and Node.JS**
 
 - 📫 How to reach me **deweshjha4@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1VLmh00o55NrFKXqz8ahJXiYJHCsE0avY/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1qEJtUKDvhR5iXOIA8EVJ1gjAIttjKRWB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
