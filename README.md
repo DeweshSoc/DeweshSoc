@@ -1,17 +1,17 @@
 <h1 align="center">Hi, I'm Dewesh</h1>
-<h3 align="center">A computer science enthusiast, web developer and a passionate educator trying to build an intense career</h3>
+<h3 align="center">A computer science enthusiast, developer and a passionate educator trying to build an intense career</h3>
 
 - 🔭 I’m currently working on building a 16 bit CPU on breadboard.
 
-- 🌱 I’m currently learning **React and Devops tech**
+- 🌱 I’m currently learning **Devops tech**
 
 - 👨‍💻 Some of my projects are available at [my portfolio](https://deweshsoc.github.io/Portfoliov2/)
 
-- 💬 Ask me about **Javascript and Node.JS**
+- 💬 Ask me about **Node.JS and devops**
 
 - 📫 How to reach me **deweshjha4@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1qEJtUKDvhR5iXOIA8EVJ1gjAIttjKRWB/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/drive/folders/1TgE3NLIIrUqPy9f0xgqt1FO8OAwmwBIn?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
